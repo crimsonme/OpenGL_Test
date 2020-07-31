@@ -1,0 +1,21 @@
+﻿  test.cpp
+e:\test_vs\project\openglproject\openglproject\test.cpp(505): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+e:\test_vs\project\openglproject\openglproject\test.cpp(535): warning C4305: “参数”: 从“double”到“float”截断
+e:\test_vs\project\openglproject\openglproject\test.cpp(536): warning C4305: “参数”: 从“double”到“float”截断
+e:\test_vs\project\openglproject\openglproject\test.cpp(543): warning C4305: “参数”: 从“double”到“float”截断
+e:\test_vs\project\openglproject\openglproject\test.cpp(544): warning C4305: “参数”: 从“double”到“float”截断
+e:\test_vs\project\openglproject\openglproject\test.cpp(551): warning C4305: “参数”: 从“double”到“float”截断
+e:\test_vs\project\openglproject\openglproject\test.cpp(552): warning C4305: “参数”: 从“double”到“float”截断
+e:\test_vs\project\openglproject\openglproject\test.cpp(559): warning C4305: “参数”: 从“double”到“float”截断
+e:\test_vs\project\openglproject\openglproject\test.cpp(560): warning C4305: “参数”: 从“double”到“float”截断
+e:\test_vs\project\openglproject\openglproject\test.cpp(568): warning C4305: “参数”: 从“double”到“float”截断
+e:\test_vs\project\openglproject\openglproject\test.cpp(569): warning C4305: “参数”: 从“double”到“float”截断
+e:\test_vs\project\openglproject\openglproject\test.cpp(740): warning C4305: “初始化”: 从“double”到“float”截断
+e:\test_vs\project\openglproject\openglproject\test.cpp(842): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+e:\test_vs\project\openglproject\openglproject\test.cpp(843): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+e:\test_vs\project\openglproject\openglproject\test.cpp(847): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+e:\test_vs\project\openglproject\openglproject\test.cpp(848): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+e:\test_vs\project\openglproject\openglproject\test.cpp(850): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+e:\test_vs\project\openglproject\openglproject\test.cpp(851): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+e:\test_vs\project\openglproject\openglproject\test.cpp(860): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+  OpenGLproject.vcxproj -> E:\Test_VS\project\OpenGLproject\Debug\OpenGLproject.exe
