@@ -141,7 +141,7 @@
     <None Include="stencil_single_color.fs" />
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="..\..\..\plug-in\glad\src\glad.c" />
+    <ClCompile Include="glad.c" />
     <ClCompile Include="stb_image.cpp" />
     <ClCompile Include="test.cpp" />
   </ItemGroup>
